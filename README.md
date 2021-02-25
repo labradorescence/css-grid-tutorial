@@ -1,4 +1,6 @@
 # css-grid-tutorial
 
-https://ibb.co/LhSHCcQ
-https://ibb.co/pPL84mZ
+
+![mobile](https://ibb.co/LhSHCcQ)
+
+![grid](https://ibb.co/pPL84mZ)
